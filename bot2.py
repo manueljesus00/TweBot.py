@@ -25,10 +25,10 @@ print("4 -> Salir de la aplicación\n")
 opcion = raw_input("Indique la opción deseada: ")
 
 #KEYS
-CONSUMER_KEY = 'YJFskqxVnndoasWp8YwEpLdp2'
-CONSUMER_SECRET = 'sxbTrjc8Fch42cMpS1mi9UGHRy6u6KP5KmHFStkCgVSXk2NjkK'
-ACCESS_KEY = '981077569796820992-V8sJBKR5hNpSgzAEON1VVhKyU9QP4oT'
-ACCESS_SECRET = 'honRYpXJFnp08wWZ7LUcZ34jtIUellXlYLK8gc8OdHpm8'
+CONSUMER_KEY = 'introduzca la clave acá'
+CONSUMER_SECRET = 'introduzca la clave acá'
+ACCESS_KEY = 'introduzca la clave acá'
+ACCESS_SECRET = 'introduzca la clave acá'
 
 
 #BOT NOMBRES ALEATORIOS
