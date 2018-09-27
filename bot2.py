@@ -102,7 +102,7 @@ while numero < cantidad:
 
     elif opcion == "2":
         
-        correo = name+"_"+surname+"@bot_3m4nu311.com"
+        correo = name+"_"+surname+"@hola"
         api.update_status(status = correo)
         print("[+] Tweet: "+ correo)
         numero += 1
